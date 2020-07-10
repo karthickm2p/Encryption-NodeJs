@@ -1,0 +1,21 @@
+{
+  "name": "encrypt-decrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^5.0.1",
+    "express": "~4.16.0",
+    "fs": "0.0.1-security",
+    "node": "8.11.4",
+    "node-gyp": "^4.0.0",
+    "ursa": "^0.9.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
